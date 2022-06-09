@@ -1,0 +1,37 @@
+[
+  {
+    "id":9,
+    "firstName":"Lothaire",
+    "lastName":"Benazet",
+    "email":"lbenazet@gmail.com",
+    "gender":"Male"
+  },
+  {
+    "id":7,
+    "firstName":"Shellie",
+    "lastName":"Cambell",
+    "email":"scambell@gmail.com",
+    "gender":"Female"
+  },
+  {
+    "id":3,
+    "firstName":"Fergus",
+    "lastName":"Macleod",
+    "email":"fmacleod@gmail.com",
+    "gender":"Male"
+  },
+  {
+    "id":1,
+    "firstName":"Jody",
+    "lastName":"Mills",
+    "email":"jmills@gmail.com",
+    "gender":"Female"
+  },
+  {
+    "id":4,
+    "firstName":"Kelly",
+    "lastName":"Kline",
+    "email":"kkline@gmail.com",
+    "gender":"Female"
+  }
+]

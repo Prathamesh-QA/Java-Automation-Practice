@@ -1,0 +1,15 @@
+{
+	"id":1,
+	"firstName":"Amuthan",
+	"isFTE":true,
+	"address":{
+		"street":"Buckle Puram",
+		"city":"Chennai",
+		"pincode":523656
+	},
+	"roles": [
+		"Test Manager",
+		"TestLead"
+	]
+
+}
